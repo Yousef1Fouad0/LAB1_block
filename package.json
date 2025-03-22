@@ -1,0 +1,13 @@
+{
+  "name": "blockchien-ziad",
+  "version": "1.0.0",
+  "main": "Lab1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Lab1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
